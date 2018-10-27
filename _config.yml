@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: Dave's computer blog
+description: computers, programming, music, and more
+permalink: /:title:output_ext
