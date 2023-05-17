@@ -32,4 +32,11 @@ Again, this was modeled after a gif animation by *dvdp*.
 
 This picture was inspired by [Farfars 3D color cycling image of 2018](https://demozoo.org/productions/191203/). So I used Blender to model a very basic 3D scene and export UV-coordinates as well as a brightness map. I used dithering to convert the brightness to just a few levels, and then I use parallel cycle ranges for each shade of brightness. I was very happy with how this came out.
 
-![Drop on](/assets/images/big wheel.gif)
+![Big wheel](/assets/images/big wheel.gif)
+
+Here is the image with just the brightness shown:
+![Big wheel](/assets/images/big wheel brightness.gif)
+
+Here is the image with just the texture coordinate shown:
+(Notice how the reflection on the floor is achieved with dithering)
+![Big wheel](/assets/images/big wheel texture.gif)
